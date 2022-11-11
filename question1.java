@@ -1,0 +1,1 @@
+// it is not possible to inherit one class from two classes in java
